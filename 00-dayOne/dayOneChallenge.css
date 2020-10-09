@@ -1,0 +1,51 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+#twoTruthsOneLie {
+    text-align: center;
+    border-radius: 25px;
+    background: grey;
+    border-style: solid;
+    width: thick;
+    border-color: black;
+    padding: 2em;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.states {
+    border-radius: 25px;
+    background: grey;
+    border-style: solid;
+    width: thick;
+    border-color: black;
+}
+
+.overseas {
+    border-radius: 25px;
+    background: grey;
+    border-style: solid;
+    width: thick;
+    border-color: black;
+}
+
+.pets {
+    border-radius: 25px;
+    background: grey;
+    border-style: solid;
+    width: thick;
+    border-color: black;
+}
