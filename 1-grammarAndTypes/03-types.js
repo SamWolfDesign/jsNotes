@@ -117,3 +117,6 @@ let home = 'My home is Indianapolis';
 console.log(home.includes('Indianapolis'))
 //*            CASE SENSITIVE ^^ ('indianapolis' will not work)
 
+function whatDoesItDo(val) {
+    return val ? 1 : 2;
+  }; 

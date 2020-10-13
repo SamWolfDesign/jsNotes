@@ -40,3 +40,12 @@ console.log(3>2>1);
 console.log(3>2)
 console.log(true>1) //* JAVASCRIPT DOING IT'S BEST TO COMPARE THE TWO. 
 //* IN BACKGROUND SAING 1 GREATER THAN 1, NOT TRUE
+
+function whatDoesItDo(color) {    
+    if (color !== 'blue' || color !== 'green') {
+       color = 'red';
+    }
+    return color;
+ }; 
+ 
+ console.log(whatDoesItDo());
